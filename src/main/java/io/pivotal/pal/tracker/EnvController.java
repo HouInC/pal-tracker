@@ -25,7 +25,6 @@ public class EnvController {
         this.memoryLimit = memoryLimit;
         this.cfInstanceIndex = cfInstanceIndex;
         this.cfInstanceAddress = cfInstanceAddress;
-        //test
     }
 
 
